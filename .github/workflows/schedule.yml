@@ -1,3 +1,4 @@
+name: Schedule GHA
 on:
   schedule:
     - cron: '*/5 * * * *'
